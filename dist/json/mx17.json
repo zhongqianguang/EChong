@@ -1,0 +1,33 @@
+[
+	{
+		"img":"../images/indexImg/mx17a.jpg",
+		"name":"妙可斯 鸡肉切丝狗零食 100g",
+		"yuanjia":"17.90",
+		"xianjia":"1.79"	
+	},
+	{
+		"img":"../images/indexImg/mx17b.jpg",
+		"name":"FOFOS两只福狸 冰淇淋甜甜圈兔子洁齿",
+		"yuanjia":"28.00",
+		"xianjia":"2.80"	
+	},
+	{
+		"img":"../images/indexImg/mx17c.jpg",
+		"name":"禾仕嘉 训练奖励系列 香趣多鱼肉趣 30g",
+		"yuanjia":"9.00",
+		"xianjia":"0.90"	
+	},
+	{
+		"img":"../images/indexImg/mx17d.jpg",
+		"name":"阿飞和巴弟 鲜蔬鸡肉粒训犬零食 230g/罐",
+		"yuanjia":"25.90",
+		"xianjia":"2.59"	
+	},
+	{
+		"img":"../images/indexImg/mx17e.jpg",
+		"name":"酷极Kyjen 扭扭棒狗用玩具 小号",
+		"yuanjia":"19.90",
+		"xianjia":"1.99"	
+	}
+
+]
